@@ -11,6 +11,7 @@ class Person
         @gender= gender
     end
     def name_age_gender #String Interpolation
-        "My name is #{name}, My age is #{age} and My gender is #{gender}"
+       "My name is #{name}, My age is #{age} and My gender is #{gender}"
+       #This is a comment
     end
 end
